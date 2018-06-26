@@ -7,4 +7,5 @@
 *&---------------------------------------------------------------------*
 REPORT zabapgit_test_mk.
 
-write: 'Hello World'.
+WRITE: 'Hello World'.
+WRITE: 'Now I have added this new line.'.
